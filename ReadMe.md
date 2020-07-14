@@ -1,5 +1,5 @@
 
-![ScreenshotName](./assets/screenshot.png)
+![ScreenshotName](./assets/images/Screenshot.png)
 
 
 
